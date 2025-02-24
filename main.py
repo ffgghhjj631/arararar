@@ -159,7 +159,7 @@ def main():
         pygame.display.update()
 
         # Ограничение FPS
-        clock.tick(10)
+        clock.tick(5)
 
 
 if __name__ == "__main__":
